@@ -1,0 +1,30 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:18:37 2022.
+
+The unpaired mean difference between SSs1_Dp2Yey and SSs1_WT is -3.45e+02 [95%CI -1.32e+03, 4.05e+02].
+The p-value of the two-sided permutation t-test is 0.528. 
+
+The unpaired mean difference between SSs2/3_Dp2Yey and SSs2/3_WT is -3.16e+02 [95%CI -8.79e+02, 2.25e+02].
+The p-value of the two-sided permutation t-test is 0.331. 
+
+The unpaired mean difference between SSs4_Dp2Yey and SSs4_WT is -1.83e+02 [95%CI -8.06e+02, 3.86e+02].
+The p-value of the two-sided permutation t-test is 0.601. 
+
+The unpaired mean difference between SSs5_Dp2Yey and SSs5_WT is -7.74 [95%CI -4.23e+02, 4.03e+02].
+The p-value of the two-sided permutation t-test is 0.968. 
+
+The unpaired mean difference between SSs6a_Dp2Yey and SSs6a_WT is 1.38e+02 [95%CI -2.23e+02, 4.64e+02].
+The p-value of the two-sided permutation t-test is 0.455. 
+
+The unpaired mean difference between SSs6b_Dp2Yey and SSs6b_WT is -2.52e+02 [95%CI -5.57e+02, -2.74].
+The p-value of the two-sided permutation t-test is 0.127. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

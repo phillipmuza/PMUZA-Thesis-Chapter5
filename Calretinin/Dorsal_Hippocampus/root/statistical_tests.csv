@@ -1,0 +1,2 @@
+,control,test,control_N,test_N,effect_size,is_paired,difference,ci,bca_low,bca_high,pvalue_permutation,pvalue_welch,statistic_welch,pvalue_students_t,statistic_students_t,pvalue_mann_whitney,statistic_mann_whitney
+0,fiber tracts_Dp2Yey,fiber tracts_WT,6,6,mean difference,False,-88.297658817144,95,-334.3720516200126,153.80373624926108,0.5072,0.5338707457072692,0.6444166153722215,0.5338074397667538,0.6444166153722215,0.30952380952380953,25.0

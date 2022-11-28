@@ -1,0 +1,21 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:18:59 2022.
+
+The unpaired mean difference between VPL_Dp2Yey and VPL_WT is 4.82 [95%CI -3.87e+02, 2.55e+02].
+The p-value of the two-sided permutation t-test is 0.969. 
+
+The unpaired mean difference between VPM_Dp2Yey and VPM_WT is 74.0 [95%CI -3.04e+02, 2.97e+02].
+The p-value of the two-sided permutation t-test is 0.578. 
+
+The unpaired mean difference between VPMpc_Dp2Yey and VPMpc_WT is 2.5e+02 [95%CI -5.21e+02, 6.89e+02].
+The p-value of the two-sided permutation t-test is 0.441. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`
