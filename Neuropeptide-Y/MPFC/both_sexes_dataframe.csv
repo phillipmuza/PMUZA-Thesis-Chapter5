@@ -1,0 +1,650 @@
+"","animal_number","genotype","sex","name","acronym","structure_id_path","parent_structure_id","cell_numbers","cell_density"
+"1:2","AN1","Dp2Yey","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,89,5932.93780414639
+"1:3","AN1","Dp2Yey","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,1990,6711.90739591484
+"1:4","AN1","Dp2Yey","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,164,2417.95181788695
+"1:7","AN1","Dp2Yey","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,643,4716.01243912457
+"1:8","AN1","Dp2Yey","male","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,183,5193.40465987456
+"1:9","AN1","Dp2Yey","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,83,5314.04059158717
+"1:11","AN1","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,193,8178.65920840749
+"1:12","AN1","Dp2Yey","male","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,148,6091.03629928389
+"1:14","AN1","Dp2Yey","male","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,173,5879.95377608592
+"1:15","AN1","Dp2Yey","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,585,5687.72908908831
+"1:16","AN1","Dp2Yey","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,338,7017.83526773664
+"1:17","AN1","Dp2Yey","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,269,8002.14183722037
+"1:18","AN1","Dp2Yey","male","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,440,5331.39464437174
+"1:19","AN1","Dp2Yey","male","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,5,1925.29842125529
+"1:20","AN1","Dp2Yey","male","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,171,1611.17078410311
+"1:21","AN1","Dp2Yey","male","Striatum","STR","/997/8/567/623/477/",623,439,5665.9051896594
+"1:22","AN1","Dp2Yey","male","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,35,1434.83786332144
+"1:23","AN1","Dp2Yey","male","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,76,3705.32884793525
+"1:25","AN1","Dp2Yey","male","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,24,7439.55362678239
+"1:26","AN1","Dp2Yey","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,509,5784.61678334394
+"1:27","AN1","Dp2Yey","male","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,68,2320.89832417489
+"1:29","AN1","Dp2Yey","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,103,2438.96663588359
+"1:30","AN1","Dp2Yey","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,338,1970.62716083932
+"1:31","AN1","Dp2Yey","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,527,5618.81610371887
+"1:32","AN1","Dp2Yey","male","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,536,6211.25210035344
+"1:33","AN1","Dp2Yey","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,92,4168.9323907921
+"1:34","AN1","Dp2Yey","male","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,138,2082.2959576298
+"1:37","AN1","Dp2Yey","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,299,5315.55555555556
+"1:38","AN1","Dp2Yey","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,857,4959.06026675925
+"1:39","AN1","Dp2Yey","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,259,2228.05281947611
+"1:40","AN1","Dp2Yey","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,203,7743.06747530228
+"1:41","AN1","Dp2Yey","male","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,103,5084.16012636359
+"1:42","AN1","Dp2Yey","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,1115,6722.82081120028
+"1:43","AN1","Dp2Yey","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,717,3301.59139468062
+"1:44","AN1","Dp2Yey","male","corpus callosum","cc","/997/1009/983/776/",983,148,883.060161456811
+"1:45","AN1","Dp2Yey","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,153,1976.87189094903
+"1:46","AN1","Dp2Yey","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,258,2706.44511581067
+"1:47","AN1","Dp2Yey","male","Pallidum","PAL","/997/8/567/623/803/",623,118,8576.82802732955
+"1:48","AN1","Dp2Yey","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,270,4949.40607127145
+"1:49","AN1","Dp2Yey","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,282,4484.30493273543
+"1:51","AN1","Dp2Yey","male","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,116,1231.37021782515
+"1:52","AN1","Dp2Yey","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,42,1365.80924197587
+"1:53","AN1","Dp2Yey","male","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,42,2422.00565134652
+"1:54","AN1","Dp2Yey","male","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,65,2351.06883206134
+"1:55","AN1","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,82,3451.32370891031
+"1:57","AN1","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,66,3542.10272097891
+"1:59","AN1","Dp2Yey","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,1259,5324.25517518449
+"1:60","AN1","Dp2Yey","male","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,356,7242.83854166667
+"1:61","AN1","Dp2Yey","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,185,2735.5533211096
+"1:62","AN1","Dp2Yey","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,969,5725.52912397632
+"1:63","AN1","Dp2Yey","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,879,6934.69239629519
+"1:64","AN1","Dp2Yey","male","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,8,5198.18063677713
+"1:65","AN1","Dp2Yey","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,187,6189.38867374971
+"1:66","AN1","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,469,5758.55802760179
+"1:67","AN1","Dp2Yey","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,276,1466.16661177396
+"1:68","AN1","Dp2Yey","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,284,3715.0406823117
+"1:71","AN1","Dp2Yey","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,185,2501.52119532148
+"2:3","AN2","Dp2Yey","female","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,6,1370.1758392327
+"2:4","AN2","Dp2Yey","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,22,3383.57428483544
+"2:5","AN2","Dp2Yey","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,31,814.097008850022
+"2:8","AN2","Dp2Yey","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,337,3123.20438916795
+"2:9","AN2","Dp2Yey","female","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,50,7136.73993719669
+"2:11","AN2","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,25,3314.77061787324
+"2:12","AN2","Dp2Yey","female","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,281,2931.66405842462
+"2:15","AN2","Dp2Yey","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,16,606.934223503528
+"2:16","AN2","Dp2Yey","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,150,6796.55641141822
+"2:18","AN2","Dp2Yey","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,24,4470.9388971684
+"2:19","AN2","Dp2Yey","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,10,1236.09394313968
+"2:20","AN2","Dp2Yey","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,22,325.805257312107
+"2:21","AN2","Dp2Yey","female","Striatum","STR","/997/8/567/623/477/",623,259,4523.54338409948
+"2:24","AN2","Dp2Yey","female","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,4,1524.97140678612
+"2:25","AN2","Dp2Yey","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,117,1544.69719974123
+"2:27","AN2","Dp2Yey","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,9,237.743026204565
+"2:28","AN2","Dp2Yey","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,25,913.108586873151
+"2:29","AN2","Dp2Yey","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,299,1556.83758903653
+"2:30","AN2","Dp2Yey","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,88,2216.23391341577
+"2:31","AN2","Dp2Yey","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,265,6921.40935565597
+"2:32","AN2","Dp2Yey","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,55,7666.57373850014
+"2:36","AN2","Dp2Yey","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,91,3586.63093173577
+"2:37","AN2","Dp2Yey","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,263,2104.95986169693
+"2:38","AN2","Dp2Yey","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,51,620.211601605254
+"2:39","AN2","Dp2Yey","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,21,1743.75155692103
+"2:40","AN2","Dp2Yey","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,301,3603.84090419291
+"2:41","AN2","Dp2Yey","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,338,1933.43934835086
+"2:43","AN2","Dp2Yey","female","corpus callosum","cc","/997/1009/983/776/",983,112,986.836308527323
+"2:44","AN2","Dp2Yey","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,30,518.322707717825
+"2:45","AN2","Dp2Yey","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,72,1394.72715650001
+"2:46","AN2","Dp2Yey","female","Pallidum","PAL","/997/8/567/623/803/",623,13,3056.66588290618
+"2:48","AN2","Dp2Yey","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,20,1365.93361562628
+"2:50","AN2","Dp2Yey","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,99,536.222071767095
+"2:51","AN2","Dp2Yey","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,24,1034.08160627343
+"2:52","AN2","Dp2Yey","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,16,1900.68899976241
+"2:53","AN2","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,20,1046.29871828407
+"2:54","AN2","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,6,2988.04780876494
+"2:56","AN2","Dp2Yey","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,545,6071.40867821534
+"2:57","AN2","Dp2Yey","female","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,53,2856.68086023824
+"2:58","AN2","Dp2Yey","female","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,39,615.054645239635
+"2:59","AN2","Dp2Yey","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,230,1459.56682594983
+"2:60","AN2","Dp2Yey","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,368,6029.12987204482
+"2:61","AN2","Dp2Yey","female","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,13,740.108169655565
+"2:62","AN2","Dp2Yey","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,13,1079.7342192691
+"2:64","AN2","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,72,2997.002997003
+"2:65","AN2","Dp2Yey","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,98,691.977997924066
+"2:66","AN2","Dp2Yey","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,14,735.21688898225
+"2:68","AN2","Dp2Yey","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,95,2545.41557258453
+"3:1","AN3","WT","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,5,826.309700875888
+"3:2","AN3","WT","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,77,814.306411869838
+"3:3","AN3","WT","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,11,190.09435592576
+"3:5","AN3","WT","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,170,1274.3628185907
+"3:6","AN3","WT","male","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,4,233.754090696587
+"3:7","AN3","WT","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,47,3886.54593566526
+"3:9","AN3","WT","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,25,1177.41251824989
+"3:10","AN3","WT","male","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,4,618.811881188119
+"3:13","AN3","WT","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,38,804.164726795615
+"3:14","AN3","WT","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,163,3458.73915165404
+"3:15","AN3","WT","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,16,1300.91877388406
+"3:16","AN3","WT","male","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,11,263.195674020194
+"3:18","AN3","WT","male","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,19,488.406765718986
+"3:19","AN3","WT","male","Striatum","STR","/997/8/567/623/477/",623,81,2991.02691924227
+"3:20","AN3","WT","male","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,3,398.512221041445
+"3:23","AN3","WT","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,118,1190.26004155823
+"3:24","AN3","WT","male","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,15,334.276736567646
+"3:26","AN3","WT","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,20,754.916393009474
+"3:27","AN3","WT","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,80,417.468989881595
+"3:28","AN3","WT","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,127,2121.68799492131
+"3:29","AN3","WT","male","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,162,3391.39172667895
+"3:30","AN3","WT","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,89,5791.25455491931
+"3:34","AN3","WT","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,122,2487.15648699339
+"3:35","AN3","WT","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,178,1275.19951857636
+"3:36","AN3","WT","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,28,342.541166107998
+"3:37","AN3","WT","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,36,2036.89034740297
+"3:39","AN3","WT","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,316,3183.75078082495
+"3:40","AN3","WT","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,62,320.267785193297
+"3:41","AN3","WT","male","corpus callosum","cc","/997/1009/983/776/",983,11,56.1683006535948
+"3:42","AN3","WT","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,18,366.128999450807
+"3:43","AN3","WT","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,27,470.178493687418
+"3:44","AN3","WT","male","Pallidum","PAL","/997/8/567/623/803/",623,15,2166.06498194946
+"3:45","AN3","WT","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,9,241.571827356667
+"3:46","AN3","WT","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,5,163.880694854146
+"3:47","AN3","WT","male","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,8,102.018694925845
+"3:48","AN3","WT","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,3,131.440588853838
+"3:49","AN3","WT","male","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,4,222.185191356996
+"3:50","AN3","WT","male","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,6,210.290200476658
+"3:51","AN3","WT","male","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,3,114.652602614079
+"3:52","AN3","WT","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,36,1746.38595129524
+"3:53","AN3","WT","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,388,2212.65432978814
+"3:54","AN3","WT","male","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,28,1059.08162493381
+"3:55","AN3","WT","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,7,163.631688445265
+"3:56","AN3","WT","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,394,1330.75738333919
+"3:57","AN3","WT","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,237,1985.45673882448
+"3:58","AN3","WT","male","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,9,719.137035557331
+"3:59","AN3","WT","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,24,1273.61494374867
+"3:60","AN3","WT","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,19,419.806005435383
+"3:61","AN3","WT","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,41,211.23676550143
+"3:62","AN3","WT","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,8,242.80684715309
+"3:63","AN3","WT","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,33,415.989108648792
+"4:1","AN4","WT","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,24,4642.166344294
+"4:2","AN4","WT","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,424,3406.08757822353
+"4:3","AN4","WT","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,66,1597.98556970607
+"4:4","AN4","WT","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,417,3923.11817335102
+"4:5","AN4","WT","male","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,70,2821.10184177649
+"4:6","AN4","WT","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,32,7294.27855026214
+"4:7","AN4","WT","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,92,4174.22867513612
+"4:8","AN4","WT","male","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,276,3836.31713554987
+"4:10","AN4","WT","male","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,20,2070.60772336681
+"4:11","AN4","WT","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,307,5543.61761678615
+"4:12","AN4","WT","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,297,6567.59984078546
+"4:13","AN4","WT","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,69,6634.61538461538
+"4:14","AN4","WT","male","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,69,1952.18559909464
+"4:15","AN4","WT","male","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,60,4129.95594713656
+"4:16","AN4","WT","male","Striatum","STR","/997/8/567/623/477/",623,321,5997.08552852819
+"4:17","AN4","WT","male","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,14,3642.98724954463
+"4:18","AN4","WT","male","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,8,2268.8598979013
+"4:19","AN4","WT","male","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,15,625.677817635772
+"4:20","AN4","WT","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,135,2445.56356653744
+"4:22","AN4","WT","male","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,7,2738.65414710485
+"4:23","AN4","WT","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,14,3572.33988262312
+"4:24","AN4","WT","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,248,2292.09412373611
+"4:25","AN4","WT","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,310,5395.33912317037
+"4:26","AN4","WT","male","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,272,8347.39911001995
+"4:27","AN4","WT","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,15,9146.34146341463
+"4:28","AN4","WT","male","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,209,1865.05563933929
+"4:31","AN4","WT","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,311,7210.92536344455
+"4:32","AN4","WT","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,250,3657.05592369918
+"4:33","AN4","WT","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,281,4022.84863495154
+"4:34","AN4","WT","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,83,5902.43208647419
+"4:35","AN4","WT","male","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,12,1501.87734668335
+"4:36","AN4","WT","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,392,4919.74045859009
+"4:37","AN4","WT","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,302,2188.84991157626
+"4:38","AN4","WT","male","corpus callosum","cc","/997/1009/983/776/",983,66,1586.46218931782
+"4:39","AN4","WT","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,102,2988.22288627175
+"4:40","AN4","WT","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,108,2400.16001066738
+"4:41","AN4","WT","male","Pallidum","PAL","/997/8/567/623/803/",623,54,4006.82644505454
+"4:42","AN4","WT","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,78,2193.47581552306
+"4:43","AN4","WT","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,42,1610.67648412333
+"4:44","AN4","WT","male","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,42,1388.65928252604
+"4:45","AN4","WT","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,12,1103.14396028682
+"4:46","AN4","WT","male","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,8,2213.00138312586
+"4:47","AN4","WT","male","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,15,4955.40138751239
+"4:48","AN4","WT","male","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,13,1671.59573100167
+"4:49","AN4","WT","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,54,2360.44935961883
+"4:50","AN4","WT","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,1030,3852.80057455356
+"4:51","AN4","WT","male","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,18,2224.1443222538
+"4:52","AN4","WT","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,77,2602.67027209735
+"4:53","AN4","WT","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,742,3977.5498935925
+"4:54","AN4","WT","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,888,5453.87544527699
+"4:55","AN4","WT","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,36,3899.90250243744
+"4:56","AN4","WT","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,99,2458.34471455886
+"4:57","AN4","WT","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,201,1802.27032261535
+"4:58","AN4","WT","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,61,1876.5766320064
+"4:59","AN4","WT","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,138,2486.03855161232
+"5:2","AN5","WT","female","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,32,2719.46970340784
+"5:3","AN5","WT","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,453,2512.31199254625
+"5:4","AN5","WT","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,23,315.492030396971
+"5:7","AN5","WT","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,203,1319.51847325863
+"5:8","AN5","WT","female","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,10,503.397936068462
+"5:9","AN5","WT","female","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,128,4966.05237633366
+"5:11","AN5","WT","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,32,1075.91957501177
+"5:12","AN5","WT","female","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,29,1793.2228543161
+"5:14","AN5","WT","female","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,3,185.965782296058
+"5:15","AN5","WT","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,538,4945.62569519134
+"5:16","AN5","WT","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,240,4561.26346998119
+"5:17","AN5","WT","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,61,3475.38742023701
+"5:18","AN5","WT","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,14,325.922477010825
+"5:19","AN5","WT","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,26,903.310982176979
+"5:20","AN5","WT","female","Striatum","STR","/997/8/567/623/477/",623,167,3108.19110722329
+"5:21","AN5","WT","female","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,7,746.666666666667
+"5:22","AN5","WT","female","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,19,1148.24439475434
+"5:24","AN5","WT","female","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,3,732.779677576942
+"5:25","AN5","WT","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,153,1478.50371558613
+"5:26","AN5","WT","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,4,418.366279677858
+"5:28","AN5","WT","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,13,1519.75683890577
+"5:29","AN5","WT","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,359,1867.99177875485
+"5:30","AN5","WT","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,224,3986.61635936499
+"5:31","AN5","WT","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,335,3739.13140535533
+"5:32","AN5","WT","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,95,6877.08122194875
+"5:33","AN5","WT","female","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,213,1120.89924536642
+"5:36","AN5","WT","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,207,4990.59742514104
+"5:37","AN5","WT","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,273,1727.19220549159
+"5:39","AN5","WT","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,97,906.92347248843
+"5:40","AN5","WT","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,51,2706.00095505916
+"5:41","AN5","WT","female","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,17,1229.74537037037
+"5:42","AN5","WT","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,319,2996.7683751691
+"5:43","AN5","WT","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,193,833.671697493802
+"5:44","AN5","WT","female","corpus callosum","cc","/997/1009/983/776/",983,118,462.26108349297
+"5:45","AN5","WT","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,123,1921.66481791054
+"5:46","AN5","WT","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,227,4070.21570350182
+"5:47","AN5","WT","female","Pallidum","PAL","/997/8/567/623/803/",623,33,3349.91371434372
+"5:48","AN5","WT","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,50,1201.77863237592
+"5:49","AN5","WT","female","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,39,945.936112930219
+"5:51","AN5","WT","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,70,807.651925096053
+"5:52","AN5","WT","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,83,1667.2358033867
+"5:53","AN5","WT","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,10,1192.46362985929
+"5:54","AN5","WT","female","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,27,1071.38605610888
+"5:55","AN5","WT","female","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,20,452.939577860313
+"5:56","AN5","WT","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,71,2253.61053800984
+"5:58","AN5","WT","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,739,2629.73414419768
+"5:59","AN5","WT","female","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,171,4164.637116415
+"5:60","AN5","WT","female","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,107,1298.197083303
+"5:61","AN5","WT","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,660,2676.6161083624
+"5:62","AN5","WT","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,503,4052.17069064134
+"5:63","AN5","WT","female","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,19,3524.39250602857
+"5:64","AN5","WT","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,103,4039.37409310169
+"5:65","AN5","WT","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,22,425.655412595531
+"5:66","AN5","WT","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,192,766.286583199965
+"5:67","AN5","WT","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,51,930.045955211905
+"5:70","AN5","WT","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,329,4151.94346289753
+"6:2","AN6","Dp2Yey","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,19,3742.36753988576
+"6:3","AN6","Dp2Yey","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,4,533.475593491598
+"6:4","AN6","Dp2Yey","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,26,2896.93593314763
+"6:5","AN6","Dp2Yey","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,216,2228.78015560187
+"6:6","AN6","Dp2Yey","male","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,95,3530.41733249099
+"6:7","AN6","Dp2Yey","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,28,4997.3228627521
+"6:8","AN6","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,65,6239.80032638956
+"6:9","AN6","Dp2Yey","male","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,165,3632.84088156939
+"6:11","AN6","Dp2Yey","male","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,110,3715.96513749071
+"6:12","AN6","Dp2Yey","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,165,2931.35304150085
+"6:13","AN6","Dp2Yey","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,251,6656.05940068947
+"6:14","AN6","Dp2Yey","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,87,3188.09776833156
+"6:15","AN6","Dp2Yey","male","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,238,2753.2593732286
+"6:16","AN6","Dp2Yey","male","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,217,5883.15033211333
+"6:17","AN6","Dp2Yey","male","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,63,1967.70465690102
+"6:19","AN6","Dp2Yey","male","Striatum","STR","/997/8/567/623/477/",623,267,5711.84083859236
+"6:21","AN6","Dp2Yey","male","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,56,3978.96831035953
+"6:23","AN6","Dp2Yey","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,599,4247.62445043256
+"6:24","AN6","Dp2Yey","male","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,49,2033.44814707225
+"6:26","AN6","Dp2Yey","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,650,4291.16548054452
+"6:27","AN6","Dp2Yey","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,618,3474.29136824115
+"6:28","AN6","Dp2Yey","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,247,2764.65716012626
+"6:30","AN6","Dp2Yey","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,116,14510.8831623718
+"6:31","AN6","Dp2Yey","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,367,6384.16310058101
+"6:32","AN6","Dp2Yey","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,377,3233.35934886832
+"6:33","AN6","Dp2Yey","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,178,2389.99959719108
+"6:34","AN6","Dp2Yey","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,51,2088.11005568293
+"6:35","AN6","Dp2Yey","male","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,84,4412.22817522849
+"6:36","AN6","Dp2Yey","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,1323,4895.88383100134
+"6:37","AN6","Dp2Yey","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,588,1810.73507221384
+"6:38","AN6","Dp2Yey","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,34,1883.23917137476
+"6:39","AN6","Dp2Yey","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,275,3516.84890338257
+"6:40","AN6","Dp2Yey","male","Pallidum","PAL","/997/8/567/623/803/",623,27,2771.22036333778
+"6:41","AN6","Dp2Yey","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,100,3968.88394983331
+"6:42","AN6","Dp2Yey","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,95,2976.93657558285
+"6:44","AN6","Dp2Yey","male","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,7,955.500955500955
+"6:45","AN6","Dp2Yey","male","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,26,1600.98522167488
+"6:47","AN6","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,25,2419.6670538134
+"6:48","AN6","Dp2Yey","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,891,5847.79969153021
+"6:49","AN6","Dp2Yey","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,118,1679.38062165547
+"6:50","AN6","Dp2Yey","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,857,3206.36334045443
+"6:51","AN6","Dp2Yey","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,718,5425.25539503113
+"6:52","AN6","Dp2Yey","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,33,1295.33678756477
+"6:53","AN6","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,144,3099.84070263056
+"6:54","AN6","Dp2Yey","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,75,1835.44613577407
+"6:55","AN6","Dp2Yey","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,9,2525.25252525253
+"6:56","AN6","Dp2Yey","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,394,3613.81688771486
+"7:2","AN7","WT","female","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,13,8029.64793082149
+"7:3","AN7","WT","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,6,460.758716019045
+"7:4","AN7","WT","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,31,922.646507336528
+"7:5","AN7","WT","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,229,1733.16783724873
+"7:6","AN7","WT","female","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,322,9140.45645509254
+"7:7","AN7","WT","female","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,4,1484.23005565863
+"7:9","AN7","WT","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,25,2758.46849828975
+"7:13","AN7","WT","female","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,36,3917.7277179236
+"7:14","AN7","WT","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,135,3510.32294971137
+"7:15","AN7","WT","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,74,2823.24215024226
+"7:16","AN7","WT","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,3,1793.1858936043
+"7:17","AN7","WT","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,69,1547.53627739027
+"7:18","AN7","WT","female","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,17,868.45466155811
+"7:19","AN7","WT","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,26,541.655382179538
+"7:22","AN7","WT","female","Striatum","STR","/997/8/567/623/477/",623,17,4301.61943319838
+"7:24","AN7","WT","female","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,36,6493.50649350649
+"7:26","AN7","WT","female","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,66,5803.72845585649
+"7:27","AN7","WT","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,196,3004.8445452873
+"7:29","AN7","WT","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,10,727.907992429757
+"7:31","AN7","WT","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,29,459.027810753914
+"7:32","AN7","WT","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,30,279.691593403008
+"7:33","AN7","WT","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,249,5372.97973804027
+"7:34","AN7","WT","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,28,2806.17358188014
+"7:35","AN7","WT","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,24,15789.4736842105
+"7:37","AN7","WT","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,58,2289.3230708506
+"7:38","AN7","WT","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,607,5193.93840861834
+"7:39","AN7","WT","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,7,168.992322920187
+"7:40","AN7","WT","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,42,3302.40603868533
+"7:41","AN7","WT","female","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,146,7568.29609662537
+"7:42","AN7","WT","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,49,2214.58917111091
+"7:43","AN7","WT","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,72,465.546338025437
+"7:46","AN7","WT","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,28,489.074426647569
+"7:47","AN7","WT","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,9,267.506836285816
+"7:48","AN7","WT","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,28,991.360997025917
+"7:49","AN7","WT","female","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,50,2059.22326098596
+"7:50","AN7","WT","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,21,250.96202108081
+"7:51","AN7","WT","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,54,6358.92604804522
+"7:52","AN7","WT","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,8,1114.67186846872
+"7:53","AN7","WT","female","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,8,1047.12041884817
+"7:55","AN7","WT","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,241,6843.86891577214
+"7:56","AN7","WT","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,276,2267.90908642706
+"7:58","AN7","WT","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,198,914.076782449726
+"7:59","AN7","WT","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,230,2883.07260328921
+"7:61","AN7","WT","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,42,4040.79276505676
+"7:62","AN7","WT","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,15,542.809582398495
+"7:63","AN7","WT","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,96,576.237409812843
+"7:64","AN7","WT","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,8,666.333499916708
+"7:65","AN7","WT","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,33,749.846622281806
+"8:4","AN9","Dp2Yey","female","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,51,2506.14250614251
+"8:5","AN9","Dp2Yey","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,507,1417.21058295713
+"8:7","AN9","Dp2Yey","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,150,984.872360542074
+"8:10","AN9","Dp2Yey","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,447,1890.47109524676
+"8:11","AN9","Dp2Yey","female","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,66,2957.916909425
+"8:12","AN9","Dp2Yey","female","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,256,6032.89814771174
+"8:14","AN9","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,169,3502.300327434
+"8:15","AN9","Dp2Yey","female","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,796,3042.33663684209
+"8:17","AN9","Dp2Yey","female","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,23,1424.50142450142
+"8:18","AN9","Dp2Yey","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,372,3235.9925885331
+"8:19","AN9","Dp2Yey","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,728,8357.92108193748
+"8:21","AN9","Dp2Yey","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,167,3144.12124635225
+"8:22","AN9","Dp2Yey","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,38,920.698761902454
+"8:23","AN9","Dp2Yey","female","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,60,5902.02636238442
+"8:24","AN9","Dp2Yey","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,137,965.972388701648
+"8:26","AN9","Dp2Yey","female","Striatum","STR","/997/8/567/623/477/",623,743,3589.33730108888
+"8:27","AN9","Dp2Yey","female","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,22,1184.70651588584
+"8:28","AN9","Dp2Yey","female","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,44,2518.6033199771
+"8:30","AN9","Dp2Yey","female","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,33,729.201193238316
+"8:31","AN9","Dp2Yey","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,1117,2981.01968487126
+"8:33","AN9","Dp2Yey","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,172,1486.8474511804
+"8:34","AN9","Dp2Yey","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,194,2111.61059288365
+"8:36","AN9","Dp2Yey","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,1098,1869.94832947876
+"8:37","AN9","Dp2Yey","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,711,5391.91894679367
+"8:38","AN9","Dp2Yey","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,820,5231.02636564874
+"8:40","AN9","Dp2Yey","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,118,5306.47119665423
+"8:41","AN9","Dp2Yey","female","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,184,1196.93480608355
+"8:44","AN9","Dp2Yey","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,729,6214.6218372775
+"8:45","AN9","Dp2Yey","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,1153,2832.09577543667
+"8:47","AN9","Dp2Yey","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,321,2144.76137024194
+"8:48","AN9","Dp2Yey","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,144,3931.31125610855
+"8:49","AN9","Dp2Yey","female","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,109,4443.90084801044
+"8:50","AN9","Dp2Yey","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,1217,3765.73827964243
+"8:51","AN9","Dp2Yey","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,1054,1770.47340846367
+"8:53","AN9","Dp2Yey","female","corpus callosum","cc","/997/1009/983/776/",983,911,1550.22138726947
+"8:54","AN9","Dp2Yey","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,436,1722.60524288339
+"8:55","AN9","Dp2Yey","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,477,2198.16681182863
+"8:56","AN9","Dp2Yey","female","Pallidum","PAL","/997/8/567/623/803/",623,93,3395.39978094195
+"8:59","AN9","Dp2Yey","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,205,2604.72917169612
+"8:61","AN9","Dp2Yey","female","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,85,1947.44197768461
+"8:63","AN9","Dp2Yey","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,590,1328.31425663932
+"8:66","AN9","Dp2Yey","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,286,2886.38152715823
+"8:68","AN9","Dp2Yey","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,19,1105.55102990806
+"8:69","AN9","Dp2Yey","female","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,70,2018.92016612829
+"8:70","AN9","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,76,615.334790705206
+"8:72","AN9","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,110,2394.58388662734
+"8:74","AN9","Dp2Yey","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,2270,5027.59641025187
+"8:75","AN9","Dp2Yey","female","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,185,3413.34710972527
+"8:76","AN9","Dp2Yey","female","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,236,1467.60693008967
+"8:77","AN9","Dp2Yey","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,1991,2576.06241549519
+"8:78","AN9","Dp2Yey","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,1615,5743.2840916365
+"8:79","AN9","Dp2Yey","female","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,167,3537.0864574067
+"8:80","AN9","Dp2Yey","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,153,3933.86984804464
+"8:82","AN9","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,109,987.622999836906
+"8:83","AN9","Dp2Yey","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,525,1011.30348350708
+"8:85","AN9","Dp2Yey","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,121,1458.39359753158
+"8:88","AN9","Dp2Yey","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,602,3160.40360768997
+"9:2","AN10","WT","female","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,20,1813.23662737987
+"9:3","AN10","WT","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,36,489.556135770235
+"9:4","AN10","WT","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,46,376.687930427377
+"9:7","AN10","WT","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,397,1761.59457588612
+"9:8","AN10","WT","female","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,4,194.741966893866
+"9:9","AN10","WT","female","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,158,7727.29495769551
+"9:11","AN10","WT","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,84,2002.47926003624
+"9:12","AN10","WT","female","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,119,714.384338774261
+"9:14","AN10","WT","female","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,5,301.495417269657
+"9:15","AN10","WT","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,398,3594.03642799736
+"9:16","AN10","WT","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,492,7860.0527198658
+"9:17","AN10","WT","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,57,1715.0078228427
+"9:18","AN10","WT","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,18,421.535795414627
+"9:19","AN10","WT","female","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,21,977.28965003723
+"9:20","AN10","WT","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,82,579.599510874559
+"9:22","AN10","WT","female","Striatum","STR","/997/8/567/623/477/",623,140,1706.69267341217
+"9:23","AN10","WT","female","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,3,188.430374976446
+"9:24","AN10","WT","female","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,15,1049.09777591272
+"9:25","AN10","WT","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,675,1981.65719385598
+"9:27","AN10","WT","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,80,744.386857850025
+"9:28","AN10","WT","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,140,917.178758139961
+"9:30","AN10","WT","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,194,503.779645744231
+"9:31","AN10","WT","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,446,4555.15723463145
+"9:32","AN10","WT","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,536,4958.92235955888
+"9:33","AN10","WT","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,110,8544.35295945316
+"9:34","AN10","WT","female","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,13,322.348682089811
+"9:37","AN10","WT","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,347,4174.88810818615
+"9:38","AN10","WT","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,545,1682.37916195909
+"9:40","AN10","WT","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,41,549.185597942563
+"9:41","AN10","WT","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,83,3425.36420288061
+"9:42","AN10","WT","female","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,17,1065.29640305803
+"9:43","AN10","WT","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,676,3088.2245449894
+"9:44","AN10","WT","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,257,653.438561519842
+"9:46","AN10","WT","female","corpus callosum","cc","/997/1009/983/776/",983,52,263.952691556052
+"9:47","AN10","WT","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,107,630.650808058185
+"9:48","AN10","WT","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,153,905.882910193255
+"9:49","AN10","WT","female","Pallidum","PAL","/997/8/567/623/803/",623,21,1439.24336920019
+"9:51","AN10","WT","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,71,1089.42490640152
+"9:52","AN10","WT","female","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,54,1378.88769725755
+"9:54","AN10","WT","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,105,321.276784539549
+"9:56","AN10","WT","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,112,1914.69356355244
+"9:57","AN10","WT","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,9,841.987089531294
+"9:58","AN10","WT","female","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,52,1099.85405782694
+"9:59","AN10","WT","female","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,24,341.85112383557
+"9:60","AN10","WT","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,110,2150.32743622324
+"9:62","AN10","WT","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,1238,4309.44457594787
+"9:63","AN10","WT","female","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,59,792.818941653901
+"9:64","AN10","WT","female","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,33,360.529650832496
+"9:65","AN10","WT","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,1029,1674.61116960768
+"9:66","AN10","WT","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,670,3912.95714435892
+"9:67","AN10","WT","female","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,27,354.191263282172
+"9:68","AN10","WT","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,50,1898.61401177141
+"9:70","AN10","WT","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,31,425.818326671337
+"9:71","AN10","WT","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,286,506.613430924322
+"9:72","AN10","WT","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,48,650.48583160548
+"9:74","AN10","WT","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,213,1457.07777238119
+"10:2","AN11","Dp2Yey","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,6,720.288115246098
+"10:3","AN11","Dp2Yey","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,59,2964.07937704094
+"10:4","AN11","Dp2Yey","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,465,3837.71024874965
+"10:5","AN11","Dp2Yey","male","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,53,4340.34886577676
+"10:6","AN11","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,44,3808.86426592798
+"10:8","AN11","Dp2Yey","male","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,178,4958.21727019499
+"10:9","AN11","Dp2Yey","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,463,4384.13756533596
+"10:10","AN11","Dp2Yey","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,131,4129.49594931123
+"10:11","AN11","Dp2Yey","male","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,138,3760.93532826425
+"10:12","AN11","Dp2Yey","male","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,204,5715.72665377826
+"10:13","AN11","Dp2Yey","male","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,28,2124.10863298437
+"10:15","AN11","Dp2Yey","male","Striatum","STR","/997/8/567/623/477/",623,3,2080.44382801664
+"10:17","AN11","Dp2Yey","male","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,241,6985.50724637681
+"10:20","AN11","Dp2Yey","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,601,5813.95348837209
+"10:21","AN11","Dp2Yey","male","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,48,2648.12975835816
+"10:23","AN11","Dp2Yey","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,513,4188.16537130168
+"10:24","AN11","Dp2Yey","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,551,2599.95187021946
+"10:25","AN11","Dp2Yey","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,131,3202.1510633097
+"10:26","AN11","Dp2Yey","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,71,4179.42076760066
+"10:28","AN11","Dp2Yey","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,148,6159.73696258376
+"10:29","AN11","Dp2Yey","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,423,4343.98619783109
+"10:30","AN11","Dp2Yey","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,160,3100.17438480915
+"10:31","AN11","Dp2Yey","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,106,5061.115355233
+"10:32","AN11","Dp2Yey","male","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,141,7064.12825651303
+"10:33","AN11","Dp2Yey","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,135,4820.22351554968
+"10:34","AN11","Dp2Yey","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,480,2580.32608870946
+"10:35","AN11","Dp2Yey","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,27,2719.0332326284
+"10:36","AN11","Dp2Yey","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,100,2944.72746547307
+"10:37","AN11","Dp2Yey","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,82,6855.61407909038
+"10:38","AN11","Dp2Yey","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,306,6186.06719767113
+"10:39","AN11","Dp2Yey","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,4,804.181745074387
+"10:40","AN11","Dp2Yey","male","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,5,1176.1938367443
+"10:41","AN11","Dp2Yey","male","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,54,3706.24571036376
+"10:42","AN11","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,9,1684.13173652695
+"10:43","AN11","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,23,3558.16831683168
+"10:44","AN11","Dp2Yey","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,804,4488.2100750268
+"10:45","AN11","Dp2Yey","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,21,2728.69022869023
+"10:46","AN11","Dp2Yey","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,683,4521.50195953818
+"10:47","AN11","Dp2Yey","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,265,4308.66285119667
+"10:48","AN11","Dp2Yey","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,375,4729.59338109172
+"10:49","AN11","Dp2Yey","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,159,2885.97669437688
+"10:50","AN11","Dp2Yey","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,55,1068.50060224579
+"10:51","AN11","Dp2Yey","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,69,6338.99862195682
+"10:52","AN11","Dp2Yey","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,90,1823.70820668693
+"11:2","AN12","Dp2Yey","female","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,159,2316.66982355427
+"11:3","AN12","Dp2Yey","female","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,61,1532.31681278103
+"11:4","AN12","Dp2Yey","female","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,100,1589.21874006738
+"11:5","AN12","Dp2Yey","female","Prelimbic area, layer 1","PL1","/997/8/567/688/695/315/9999/972/171/",972,55,3603.01342941369
+"11:8","AN12","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,49,4092.54155182494
+"11:9","AN12","Dp2Yey","female","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,239,4924.7887904389
+"11:12","AN12","Dp2Yey","female","Prelimbic area, layer 2/3","PL2/3","/997/8/567/688/695/315/9999/972/304/",972,36,6674.08231368187
+"11:13","AN12","Dp2Yey","female","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,48,1828.85011049303
+"11:14","AN12","Dp2Yey","female","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,199,8561.717506346
+"11:15","AN12","Dp2Yey","female","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,35,2899.0308953864
+"11:16","AN12","Dp2Yey","female","Prelimbic area, layer 5","PL5","/997/8/567/688/695/315/9999/972/363/",972,56,1959.4121763471
+"11:17","AN12","Dp2Yey","female","Orbital area, lateral part, layer 2/3","ORBl2/3","/997/8/567/688/695/315/714/723/412/",723,4,526.731630234396
+"11:18","AN12","Dp2Yey","female","Orbital area, lateral part, layer 6a","ORBl6a","/997/8/567/688/695/315/714/723/440/",723,115,1852.32910250628
+"11:19","AN12","Dp2Yey","female","Striatum","STR","/997/8/567/623/477/",623,94,4987.00196296886
+"11:21","AN12","Dp2Yey","female","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,13,3849.57062481492
+"11:23","AN12","Dp2Yey","female","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,98,6143.81543476898
+"11:24","AN12","Dp2Yey","female","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,246,2413.77618603738
+"11:26","AN12","Dp2Yey","female","Orbital area, ventrolateral part, layer 6a","ORBvl6a","/997/8/567/688/695/315/714/746/608/",746,88,2016.91457908368
+"11:28","AN12","Dp2Yey","female","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,108,2621.23197903014
+"11:29","AN12","Dp2Yey","female","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,295,2200.65497459922
+"11:30","AN12","Dp2Yey","female","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,256,4725.1651962051
+"11:31","AN12","Dp2Yey","female","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,202,5493.90774586597
+"11:32","AN12","Dp2Yey","female","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,28,5647.43848325938
+"11:33","AN12","Dp2Yey","female","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,48,1253.88573966197
+"11:35","AN12","Dp2Yey","female","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,209,5973.47662055562
+"11:36","AN12","Dp2Yey","female","Olfactory areas","OLF","/997/8/567/688/695/698/",695,211,2596.12426945555
+"11:37","AN12","Dp2Yey","female","Cortical subplate","CTXsp","/997/8/567/688/703/",688,21,1053.31795154737
+"11:38","AN12","Dp2Yey","female","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,58,5261.24818577649
+"11:39","AN12","Dp2Yey","female","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,41,3468.11030282524
+"11:40","AN12","Dp2Yey","female","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,618,4631.32967123555
+"11:41","AN12","Dp2Yey","female","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,390,3073.673591627
+"11:43","AN12","Dp2Yey","female","corpus callosum","cc","/997/1009/983/776/",983,82,702.277262488973
+"11:45","AN12","Dp2Yey","female","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,196,3807.30380730381
+"11:46","AN12","Dp2Yey","female","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,101,2598.20440923006
+"11:47","AN12","Dp2Yey","female","Pallidum","PAL","/997/8/567/623/803/",623,22,3890.36251105217
+"11:48","AN12","Dp2Yey","female","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,43,1662.34971198825
+"11:49","AN12","Dp2Yey","female","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,24,1550.08719240457
+"11:51","AN12","Dp2Yey","female","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,243,1635.43853981586
+"11:52","AN12","Dp2Yey","female","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,13,727.313416135168
+"11:53","AN12","Dp2Yey","female","anterior commissure, olfactory limb","aco","/997/1009/967/840/900/",840,4,1191.18522930316
+"11:54","AN12","Dp2Yey","female","Orbital area, medial part, layer 6a","ORBm6a","/997/8/567/688/695/315/714/731/910/",731,26,2221.27296027339
+"11:55","AN12","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,33,1202.58008090084
+"11:56","AN12","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,117,5289.80920517226
+"11:58","AN12","Dp2Yey","female","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,616,5548.15001621213
+"11:59","AN12","Dp2Yey","female","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,23,2412.16570529628
+"11:60","AN12","Dp2Yey","female","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,34,1184.79283548803
+"11:61","AN12","Dp2Yey","female","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,609,2309.19735485045
+"11:62","AN12","Dp2Yey","female","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,486,6389.44033235607
+"11:63","AN12","Dp2Yey","female","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,17,1629.75745374365
+"11:64","AN12","Dp2Yey","female","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,45,7500
+"11:66","AN12","Dp2Yey","female","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,64,1577.01500628342
+"11:67","AN12","Dp2Yey","female","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,521,2397.82768777614
+"11:68","AN12","Dp2Yey","female","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,24,1488.37209302326
+"11:70","AN12","Dp2Yey","female","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,324,6713.35626372716
+"12:1","AN8","WT","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,10,6609.38532716457
+"12:2","AN8","WT","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,565,3116.24418117237
+"12:3","AN8","WT","male","Prelimbic area, layer 6a","PL6a","/997/8/567/688/695/315/9999/972/84/",972,11,897.592819257446
+"12:5","AN8","WT","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,8,1670.14613778706
+"12:6","AN8","WT","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,16,4138.6445938955
+"12:8","AN8","WT","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,29,6911.34413727359
+"12:9","AN8","WT","male","Lateral septal nucleus, rostral (rostroventral) part","LSr","/997/8/567/623/477/275/242/258/",242,34,6231.6715542522
+"12:11","AN8","WT","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,199,4521.28868087427
+"12:12","AN8","WT","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,64,9154.6273780575
+"12:13","AN8","WT","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,10,1871.95806813927
+"12:15","AN8","WT","male","Striatum","STR","/997/8/567/623/477/",623,44,4638.41450558718
+"12:16","AN8","WT","male","Orbital area, lateral part, layer 6b","ORBl6b","/997/8/567/688/695/315/714/723/488/",723,29,2086.93149107657
+"12:17","AN8","WT","male","Infralimbic area, layer 2/3","ILA2/3","/997/8/567/688/695/315/9999/44/556/",44,12,8701.95794053662
+"12:19","AN8","WT","male","Anterior cingulate area, ventral part, layer 1","ACAv1","/997/8/567/688/695/315/9999/31/48/588/",48,139,7110.33812471226
+"12:20","AN8","WT","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,69,3950.0801465537
+"12:22","AN8","WT","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,14,454.693082169536
+"12:23","AN8","WT","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,20,1979.61001682669
+"12:24","AN8","WT","male","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,68,4601.12321537316
+"12:27","AN8","WT","male","Caudoputamen","CP","/997/8/567/623/477/485/672/",485,154,2142.96647788152
+"12:29","AN8","WT","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,61,6756.75675675676
+"12:30","AN8","WT","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,143,4190.84461637653
+"12:31","AN8","WT","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,93,2678.03150286521
+"12:32","AN8","WT","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,11,4807.69230769231
+"12:33","AN8","WT","male","Infralimbic area, layer 1","ILA1","/997/8/567/688/695/315/9999/44/707/",44,12,5484.46069469835
+"12:34","AN8","WT","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,71,2068.88513316627
+"12:35","AN8","WT","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,153,1657.56630265211
+"12:37","AN8","WT","male","corpus callosum","cc","/997/1009/983/776/",983,191,923.597678916828
+"12:38","AN8","WT","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,20,1453.065969195
+"12:39","AN8","WT","male","Agranular insular area, ventral part, layer 5","AIv5","/997/8/567/688/695/315/95/119/800/",119,31,3660.84081247048
+"12:42","AN8","WT","male","Dorsal peduncular cortex","DP","/997/8/567/688/695/698/814/",698,103,3959.71090266031
+"12:43","AN8","WT","male","Infralimbic area, layer 5","ILA5","/997/8/567/688/695/315/9999/44/827/",44,32,4466.77833612507
+"12:44","AN8","WT","male","Primary motor area, Layer 6a","MOp6a","/997/8/567/688/695/315/500/985/844/",985,43,759.073577178365
+"12:45","AN8","WT","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,110,5766.10578183152
+"12:47","AN8","WT","male","Anterior cingulate area, dorsal part, layer 6a","ACAd6a","/997/8/567/688/695/315/9999/31/39/919/",39,6,526.731630234396
+"12:48","AN8","WT","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,33,4027.82863419993
+"12:50","AN8","WT","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,112,2044.16864391312
+"12:51","AN8","WT","male","Primary somatosensory area, mouth, layer 4","SSp-m4","/997/8/567/688/695/315/453/322/345/950/",345,12,3667.48166259169
+"12:52","AN8","WT","male","Endopiriform nucleus, dorsal part","EPd","/997/8/567/688/703/942/952/",942,41,1179.00790797987
+"12:53","AN8","WT","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,211,2079.47333149367
+"12:54","AN8","WT","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,132,5091.21764955452
+"12:55","AN8","WT","male","Primary somatosensory area, mouth, layer 5","SSp-m5","/997/8/567/688/695/315/453/322/345/974/",345,13,2285.91524529629
+"12:56","AN8","WT","male","Anterior cingulate area, dorsal part, layer 5","ACAd5","/997/8/567/688/695/315/9999/31/39/1015/",39,62,1390.50865703777
+"12:57","AN8","WT","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,9,258.479565754329
+"12:58","AN8","WT","male","Infralimbic area, layer 6a","ILA6a","/997/8/567/688/695/315/9999/44/1054/",44,3,1062.32294617564
+"12:60","AN8","WT","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,52,3715.34724206916
+"13:1","AN92","WT","male","Gustatory areas, layer 1","GU1","/997/8/567/688/695/315/1057/36/",1057,12,6888.6337543054
+"13:2","AN92","WT","male","Nucleus accumbens","ACB","/997/8/567/623/477/493/56/",493,13,138.505630786605
+"13:4","AN92","WT","male","Anterior olfactory nucleus","AON","/997/8/567/688/695/698/159/",698,67,395.438878134001
+"13:5","AN92","WT","male","Gustatory areas, layer 2/3","GU2/3","/997/8/567/688/695/315/1057/180/",1057,4,1004.77267018337
+"13:7","AN92","WT","male","Anterior cingulate area, dorsal part, layer 2/3","ACAd2/3","/997/8/567/688/695/315/9999/31/39/211/",39,5,258.491443933206
+"13:9","AN92","WT","male","Primary motor area, Layer 1","MOp1","/997/8/567/688/695/315/500/985/320/",985,294,5456.67143042744
+"13:10","AN92","WT","male","Agranular insular area, dorsal part, layer 2/3","AId2/3","/997/8/567/688/695/315/95/104/328/",104,6,131.781243136394
+"13:11","AN92","WT","male","Substantia innominata","SI","/997/8/567/623/803/835/342/",835,6,841.396718552798
+"13:12","AN92","WT","male","Striatum","STR","/997/8/567/623/477/",623,6,1096.89213893967
+"13:15","AN92","WT","male","Taenia tecta","TT","/997/8/567/688/695/698/589/",698,71,490.209616393714
+"13:18","AN92","WT","male","Orbital area, lateral part, layer 5","ORBl5","/997/8/567/688/695/315/714/723/630/",723,3,46.9564400757564
+"13:19","AN92","WT","male","Primary motor area, Layer 5","MOp5","/997/8/567/688/695/315/500/985/648/",985,11,42.8620970475808
+"13:20","AN92","WT","male","Secondary motor area, layer 1","MOs1","/997/8/567/688/695/315/500/993/656/",993,243,3777.57395805805
+"13:21","AN92","WT","male","Primary somatosensory area, mouth, layer 2/3","SSp-m2/3","/997/8/567/688/695/315/453/322/345/657/",345,12,827.586206896552
+"13:22","AN92","WT","male","lateral olfactory tract, body","lot","/997/1009/967/840/21/665/",21,7,522.427046794537
+"13:23","AN92","WT","male","Agranular insular area, ventral part, layer 2/3","AIv2/3","/997/8/567/688/695/315/95/119/694/",119,7,180.231210896264
+"13:24","AN92","WT","male","Olfactory areas","OLF","/997/8/567/688/695/698/",695,71,603.654233656699
+"13:25","AN92","WT","male","Cortical subplate","CTXsp","/997/8/567/688/703/",688,4,59.0231665928877
+"13:26","AN92","WT","male","Agranular insular area, ventral part, layer 1","AIv1","/997/8/567/688/695/315/95/119/704/",119,48,3001.87617260788
+"13:28","AN92","WT","male","Olfactory tubercle","OT","/997/8/567/623/477/493/754/",493,118,2341.92037470726
+"13:29","AN92","WT","male","Secondary motor area, layer 5","MOs5","/997/8/567/688/695/315/500/993/767/",993,9,24.2458856079117
+"13:30","AN92","WT","male","corpus callosum","cc","/997/1009/983/776/",983,4,24.9494773084504
+"13:31","AN92","WT","male","Agranular insular area, dorsal part, layer 6a","AId6a","/997/8/567/688/695/315/95/104/783/",104,4,68.7462404399759
+"13:37","AN92","WT","male","Primary somatosensory area, mouth, layer 1","SSp-m1","/997/8/567/688/695/315/453/322/345/878/",345,45,5072.70882651336
+"13:40","AN92","WT","male","Anterior cingulate area, dorsal part, layer 1","ACAd1","/997/8/567/688/695/315/9999/31/39/935/",39,18,717.646120724025
+"13:41","AN92","WT","male","Primary motor area, Layer 2/3","MOp2/3","/997/8/567/688/695/315/500/985/943/",985,215,846.290100373942
+"13:43","AN92","WT","male","Piriform cortex","PIR","/997/8/567/688/695/698/961/",698,76,186.70145209511
+"13:44","AN92","WT","male","Secondary motor area, layer 2/3","MOs2/3","/997/8/567/688/695/315/500/993/962/",993,39,317.029353666566
+"13:45","AN92","WT","male","Agranular insular area, dorsal part, layer 1","AId1","/997/8/567/688/695/315/95/104/996/",104,43,3272.45053272451
+"13:47","AN92","WT","male","Secondary motor area, layer 6a","MOs6a","/997/8/567/688/695/315/500/993/1021/",993,7,38.0221940978691
+"13:49","AN92","WT","male","Agranular insular area, dorsal part, layer 5","AId5","/997/8/567/688/695/315/95/104/1101/",104,3,32.3160944922603
