@@ -1,0 +1,526 @@
+$`Agranular insular area, posterior part`
+             Df   Sum Sq Mean Sq F value  Pr(>F)   
+genotype      1   297634  297634   0.530 0.46990   
+sex           1   515383  515383   0.918 0.34254   
+genotype:sex  1  4994706 4994706   8.896 0.00438 **
+Residuals    51 28635082  561472                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Ammon's horn`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  495263  495263   3.866  0.058 .
+sex           1  101585  101585   0.793  0.380  
+genotype:sex  1  114508  114508   0.894  0.352  
+Residuals    32 4099286  128103                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Anterior group of the dorsal thalamus`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1    313     313   0.007  0.933
+sex           1  39375   39375   0.938  0.361
+genotype:sex  1  24556   24556   0.585  0.466
+Residuals     8 335986   41998               
+
+$`Basolateral amygdala `
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1    1403    1403   0.006  0.936
+sex           1  390970  390970   1.799  0.189
+genotype:sex  1   67439   67439   0.310  0.581
+Residuals    32 6952892  217278               
+
+$`Basomedial amygdala `
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1   50579   50579   0.369 0.5505  
+sex           1  552742  552742   4.029 0.0584 .
+genotype:sex  1   45676   45676   0.333 0.5704  
+Residuals    20 2743647  137182                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Central amygdala `
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  637483  637483   3.586 0.0673 .
+sex           1  670668  670668   3.773 0.0609 .
+genotype:sex  1    9847    9847   0.055 0.8154  
+Residuals    32 5688868  177777                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Cerebral cortex`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1  86342   86342   0.751  0.411
+sex           1 356089  356089   3.097  0.116
+genotype:sex  1 130824  130824   1.138  0.317
+Residuals     8 919816  114977               
+
+$`Cerebral nuclei`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1    4118    4118   0.048  0.829
+sex           1   45931   45931   0.537  0.472
+genotype:sex  1      26      26   0.000  0.986
+Residuals    20 1710766   85538               
+
+$`cerebral nuclei related`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   74308   74308   0.477  0.509
+sex           1   89483   89483   0.574  0.470
+genotype:sex  1    9198    9198   0.059  0.814
+Residuals     8 1246199  155775               
+
+$`cerebrum related`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1    7356    7356   0.028  0.868
+sex           1  173383  173383   0.665  0.421
+genotype:sex  1    4216    4216   0.016  0.900
+Residuals    32 8348188  260881               
+
+$`corpus callosum`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   97181   97181   0.549  0.467
+sex           1   55697   55697   0.315  0.581
+genotype:sex  1  266714  266714   1.508  0.234
+Residuals    20 3537872  176894               
+
+$`corpus callosum, anterior forceps`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   25397   25397   0.076  0.790
+sex           1  924445  924445   2.771  0.135
+genotype:sex  1   54068   54068   0.162  0.698
+Residuals     8 2669316  333665               
+
+$`Cortical amygdala area, posterior part`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  467654  467654   1.419  0.249
+sex           1  426905  426905   1.296  0.270
+genotype:sex  1  417024  417024   1.266  0.275
+Residuals    18 5930821  329490               
+
+$`Cortical amygdala cortex`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   82329   82329   0.337  0.577
+sex           1  343809  343809   1.409  0.269
+genotype:sex  1  610842  610842   2.503  0.152
+Residuals     8 1951999  244000               
+
+$`Cortical plate`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  263840  263840   1.232 0.2992  
+sex           1   28071   28071   0.131 0.7267  
+genotype:sex  1 1285120 1285120   6.002 0.0399 *
+Residuals     8 1712841  214105                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Cortical subplate`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   80966   80966   0.265  0.621
+sex           1  197028  197028   0.645  0.445
+genotype:sex  1     675     675   0.002  0.964
+Residuals     8 2443050  305381               
+
+$`corticospinal tract`
+             Df Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  77244   77244   1.634  0.237  
+sex           1 263154  263154   5.565  0.046 *
+genotype:sex  1 119907  119907   2.536  0.150  
+Residuals     8 378282   47285                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Dentate gyrus`
+             Df  Sum Sq Mean Sq F value   Pr(>F)    
+genotype      1  875255  875255  14.105 0.000717 ***
+sex           1    9870    9870   0.159 0.692756    
+genotype:sex  1  126623  126623   2.041 0.163145    
+Residuals    31 1923585   62051                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Dorsal auditory cortex`
+             Df   Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  1331242 1331242   2.819 0.0997 .
+sex           1     6652    6652   0.014 0.9060  
+genotype:sex  1   373074  373074   0.790 0.3785  
+Residuals    48 22668219  472255                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Dorsal part of the lateral geniculate complex`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1 1206490 1206490  12.966 0.0114 *
+sex           1    2726    2726   0.029 0.8697  
+genotype:sex  1  260952  260952   2.804 0.1450  
+Residuals     6  558316   93053                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Dorsal striatum`
+             Df Sum Sq Mean Sq F value Pr(>F)  
+genotype      1 155324  155324   1.513 0.2537  
+sex           1 573300  573300   5.583 0.0458 *
+genotype:sex  1  66094   66094   0.644 0.4456  
+Residuals     8 821505  102688                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Ectorhinal cortex`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1    90293   90293   0.142  0.708
+sex           1    71621   71621   0.113  0.739
+genotype:sex  1   546587  546587   0.861  0.359
+Residuals    41 26017303  634568               
+
+$`Endopiriform nucleus`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  441858  441858   3.250 0.0865 .
+sex           1  238514  238514   1.754 0.2003  
+genotype:sex  1  336165  336165   2.472 0.1316  
+Residuals    20 2719404  135970                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Entorhinal area, lateral part`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1   600102  600102   0.775  0.385
+sex           1     2719    2719   0.004  0.953
+genotype:sex  1   984231  984231   1.271  0.268
+Residuals    33 25548435  774195               
+
+$Epithalamus
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1 1047416 1047416   3.553 0.0741 .
+sex           1    1681    1681   0.006 0.9406  
+genotype:sex  1  650902  650902   2.208 0.1529  
+Residuals    20 5896490  294824                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`epithalamus related`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   17322   17322   0.046  0.834
+sex           1  632464  632464   1.679  0.218
+genotype:sex  1   80562   80562   0.214  0.651
+Residuals    13 4897927  376764               
+
+$`fornix system`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  123695  123695   0.887  0.358  
+sex           1  171328  171328   1.228  0.281  
+genotype:sex  1  481426  481426   3.452  0.078 .
+Residuals    20 2789448  139472                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Geniculate group, ventral thalamus`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  677091  677091   1.599  0.275
+sex           1  182551  182551   0.431  0.547
+genotype:sex  1  537286  537286   1.269  0.323
+Residuals     4 1693958  423490               
+
+$`hippocampal commissures`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   58051   58051   0.383  0.553
+sex           1      98      98   0.001  0.980
+genotype:sex  1  471960  471960   3.116  0.116
+Residuals     8 1211698  151462               
+
+$`Hippocampal region`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   20882   20882   0.032  0.862
+sex           1  225092  225092   0.346  0.573
+genotype:sex  1  361085  361085   0.555  0.477
+Residuals     8 5201683  650210               
+
+$`Hypothalamic lateral zone`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  101007  101007   0.786  0.379
+sex           1   22867   22867   0.178  0.675
+genotype:sex  1  205923  205923   1.602  0.210
+Residuals    61 7840004  128525               
+
+$`Hypothalamic medial zone`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   47173   47173   0.272  0.608
+sex           1  279117  279117   1.607  0.220
+genotype:sex  1    6662    6662   0.038  0.847
+Residuals    19 3300837  173728               
+
+$Hypothalamus
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   76469   76469   0.089  0.781
+sex           1 2032087 2032087   2.356  0.200
+genotype:sex  1  216427  216427   0.251  0.643
+Residuals     4 3450397  862599               
+
+$`hypothalamus related`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1   1358    1358   0.011  0.919
+sex           1  24535   24535   0.197  0.669
+genotype:sex  1  66296   66296   0.534  0.486
+Residuals     8 994091  124261               
+
+$Interbrain
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  109009  109009   0.583  0.454
+sex           1   34990   34990   0.187  0.670
+genotype:sex  1   35857   35857   0.192  0.666
+Residuals    20 3739911  186996               
+
+$`Intralaminar nuclei of the dorsal thalamus`
+             Df    Sum Sq Mean Sq F value Pr(>F)
+genotype      1    794419  794419   0.405  0.527
+sex           1   2142786 2142786   1.092  0.301
+genotype:sex  1   1035144 1035144   0.528  0.471
+Residuals    55 107885099 1961547               
+
+$`Lateral group of the dorsal thalamus`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   58492   58492   0.842  0.370
+sex           1   74938   74938   1.078  0.311
+genotype:sex  1  141918  141918   2.042  0.168
+Residuals    20 1390043   69502               
+
+$`lateral ventricle`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  237163  237163   0.359  0.566
+sex           1  514906  514906   0.779  0.403
+genotype:sex  1 1203780 1203780   1.821  0.214
+Residuals     8 5289022  661128               
+
+$`mammillary related`
+             Df  Sum Sq Mean Sq F value  Pr(>F)   
+genotype      1  131557  131557   0.679 0.43383   
+sex           1 4057072 4057072  20.937 0.00181 **
+genotype:sex  1   74652   74652   0.385 0.55207   
+Residuals     8 1550169  193771                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Medial group of the dorsal thalamus`
+             Df   Sum Sq Mean Sq F value Pr(>F)  
+genotype      1   539853  539853   0.631 0.4313  
+sex           1  2167136 2167136   2.533 0.1187  
+genotype:sex  1  2922214 2922214   3.415 0.0713 .
+Residuals    44 37647020  855614                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Midline group of the dorsal thalamus`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1   663451  663451   0.997  0.331
+sex           1  1197745 1197745   1.800  0.196
+genotype:sex  1     3812    3812   0.006  0.940
+Residuals    19 12642740  665407               
+
+$`Olfactory areas`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  619247  619247   3.031 0.0971 .
+sex           1 1431057 1431057   7.004 0.0155 *
+genotype:sex  1   36003   36003   0.176 0.6791  
+Residuals    20 4086365  204318                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`optic nerve`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1    916     916   0.014  0.909
+sex           1  71591   71591   1.081  0.329
+genotype:sex  1   4011    4011   0.061  0.812
+Residuals     8 529683   66210               
+
+$`Pallidum, dorsal region`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   17145   17145   0.105  0.749
+sex           1  297105  297105   1.825  0.192
+genotype:sex  1   21786   21786   0.134  0.718
+Residuals    20 3256834  162842               
+
+$`Pallidum, ventral region`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1     551     551   0.001  0.983
+sex           1 2277298 2277298   2.080  0.192
+genotype:sex  1   14926   14926   0.014  0.910
+Residuals     7 7662939 1094706               
+
+$`Perirhinal cortex`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1      719     719   0.001  0.973
+sex           1  1256499 1256499   2.091  0.160
+genotype:sex  1   172092  172092   0.286  0.597
+Residuals    27 16225699  600952               
+
+$`Periventricular region`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  182498  182498   1.406  0.270
+sex           1  368488  368488   2.839  0.130
+genotype:sex  1     178     178   0.001  0.971
+Residuals     8 1038362  129795               
+
+$`Periventricular zone`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1  224076  224076   0.682 0.4185  
+sex           1  919240  919240   2.800 0.1099  
+genotype:sex  1 1421878 1421878   4.331 0.0505 .
+Residuals    20 6566783  328339                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`postcommissural fornix`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1 170403  170403   1.389  0.272
+sex           1    281     281   0.002  0.963
+genotype:sex  1  41941   41941   0.342  0.575
+Residuals     8 981139  122642               
+
+$`Posterior parietal association areas`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1   6751    6751   0.055  0.820
+sex           1  53092   53092   0.434  0.528
+genotype:sex  1   5254    5254   0.043  0.841
+Residuals     8 978048  122256               
+
+$`Primary somatosensory area, barrel field`
+             Df   Sum Sq Mean Sq F value   Pr(>F)    
+genotype      1     2280    2280   0.012 0.912210    
+sex           1  2454766 2454766  13.184 0.000547 ***
+genotype:sex  1      318     318   0.002 0.967145    
+Residuals    67 12474475  186186                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Primary somatosensory area, trunk`
+             Df   Sum Sq Mean Sq F value  Pr(>F)   
+genotype      1    14358   14358   0.057 0.81253   
+sex           1  2806657 2806657  11.085 0.00144 **
+genotype:sex  1   301964  301964   1.193 0.27884   
+Residuals    65 16457724  253196                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Primary somatosensory cortex`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   62917   62917   0.051  0.827
+sex           1 3619442 3619442   2.928  0.125
+genotype:sex  1 3652886 3652886   2.955  0.124
+Residuals     8 9890159 1236270               
+
+$`Retrosplenial area, dorsal part`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1  2602998 2602998   1.973  0.174
+sex           1  1156712 1156712   0.877  0.359
+genotype:sex  1  1968156 1968156   1.492  0.235
+Residuals    22 29019350 1319061               
+
+$`Retrosplenial area, lateral agranular part`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1   920054  920054   1.118  0.301
+sex           1  1888136 1888136   2.295  0.143
+genotype:sex  1   334100  334100   0.406  0.530
+Residuals    24 19746611  822775               
+
+$`Retrosplenial area, ventral part`
+             Df   Sum Sq  Mean Sq F value   Pr(>F)    
+genotype      1 10153747 10153747  18.743 6.52e-05 ***
+sex           1    63424    63424   0.117    0.734    
+genotype:sex  1     9740     9740   0.018    0.894    
+Residuals    54 29253042   541723                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$root
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1  23389   23389   0.376  0.557
+sex           1  30805   30805   0.495  0.501
+genotype:sex  1  35007   35007   0.563  0.475
+Residuals     8 497418   62177               
+
+$`stria terminalis`
+             Df Sum Sq Mean Sq F value Pr(>F)  
+genotype      1    800     800   0.009 0.9282  
+sex           1 425560  425560   4.598 0.0643 .
+genotype:sex  1  30088   30088   0.325 0.5842  
+Residuals     8 740427   92553                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Striatum-like amygdala nuclei`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1  121495  121495   1.113  0.304
+sex           1   25107   25107   0.230  0.637
+genotype:sex  1   20987   20987   0.192  0.666
+Residuals    20 2182347  109117               
+
+$`Supplemental somatosensory area`
+             Df   Sum Sq Mean Sq F value   Pr(>F)    
+genotype      1   432446  432446   2.254 0.137974    
+sex           1  2782307 2782307  14.502 0.000306 ***
+genotype:sex  1  2947679 2947679  15.363 0.000211 ***
+Residuals    67 12854817  191863                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Temporal association cortex`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1  1721126 1721126   1.616  0.209
+sex           1   248086  248086   0.233  0.631
+genotype:sex  1  2236193 2236193   2.100  0.153
+Residuals    54 57513970 1065074               
+
+$`thalamus related`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1  47334   47334   1.353  0.283
+sex           1  75350   75350   2.154  0.186
+genotype:sex  1  80585   80585   2.304  0.173
+Residuals     7 244883   34983               
+
+$`Thalamus, polymodal association cortex related`
+             Df Sum Sq Mean Sq F value Pr(>F)
+genotype      1  16247   16247   0.155  0.704
+sex           1 357926  357926   3.412  0.102
+genotype:sex  1     20      20   0.000  0.989
+Residuals     8 839217  104902               
+
+$`Ventral auditory cortex`
+             Df   Sum Sq Mean Sq F value Pr(>F)
+genotype      1  1267247 1267247   1.168  0.285
+sex           1   932198  932198   0.859  0.358
+genotype:sex  1    55258   55258   0.051  0.822
+Residuals    53 57485621 1084634               
+
+$`Ventral group of the dorsal thalamus`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1   82892   82892   0.364  0.553  
+sex           1  955459  955459   4.191  0.054 .
+genotype:sex  1  303488  303488   1.331  0.262  
+Residuals    20 4559315  227966                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Ventral posterior complex of the thalamus`
+             Df  Sum Sq Mean Sq F value Pr(>F)
+genotype      1   87378   87378   0.270  0.607
+sex           1   95415   95415   0.295  0.591
+genotype:sex  1    8648    8648   0.027  0.871
+Residuals    30 9695283  323176               
+
+$`ventricular systems`
+             Df  Sum Sq Mean Sq F value Pr(>F)  
+genotype      1    1974    1974   0.004 0.9505  
+sex           1 1759592 1759592   3.523 0.0752 .
+genotype:sex  1 1073909 1073909   2.150 0.1581  
+Residuals    20 9990540  499527                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Visceral cortex`
+             Df   Sum Sq Mean Sq F value  Pr(>F)   
+genotype      1     1328    1328   0.002 0.96374   
+sex           1  5709039 5709039   8.950 0.00392 **
+genotype:sex  1  7032301 7032301  11.024 0.00148 **
+Residuals    65 41462750  637888                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
