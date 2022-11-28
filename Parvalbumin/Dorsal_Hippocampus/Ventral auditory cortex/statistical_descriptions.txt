@@ -1,0 +1,27 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:29:19 2022.
+
+The unpaired mean difference between AUDv1_Dp2Yey and AUDv1_WT is -3.46e+02 [95%CI -9.57e+02, 3.05e+02].
+The p-value of the two-sided permutation t-test is 0.338. 
+
+The unpaired mean difference between AUDv2/3_Dp2Yey and AUDv2/3_WT is -5.28e+02 [95%CI -2.06e+03, 8.93e+02].
+The p-value of the two-sided permutation t-test is 0.526. 
+
+The unpaired mean difference between AUDv4_Dp2Yey and AUDv4_WT is 6.1e+02 [95%CI -4e+02, 2.77e+03].
+The p-value of the two-sided permutation t-test is 0.59. 
+
+The unpaired mean difference between AUDv5_Dp2Yey and AUDv5_WT is 6.1 [95%CI -8.45e+02, 1.65e+03].
+The p-value of the two-sided permutation t-test is 0.991. 
+
+The unpaired mean difference between AUDv6a_Dp2Yey and AUDv6a_WT is 2.9e+02 [95%CI -1.57e+03, 2.03e+03].
+The p-value of the two-sided permutation t-test is 0.843. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

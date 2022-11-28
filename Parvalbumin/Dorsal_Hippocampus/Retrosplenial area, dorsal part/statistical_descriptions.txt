@@ -1,0 +1,24 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:28:58 2022.
+
+The unpaired mean difference between RSPd1_Dp2Yey and RSPd1_WT is -82.2 [95%CI -5.11e+02, 3.79e+02].
+The p-value of the two-sided permutation t-test is 0.733. 
+
+The unpaired mean difference between RSPd2/3_Dp2Yey and RSPd2/3_WT is -4.92e+02 [95%CI -2.13e+03, 1.28e+03].
+The p-value of the two-sided permutation t-test is 0.605. 
+
+The unpaired mean difference between RSPd5_Dp2Yey and RSPd5_WT is -1.69e+03 [95%CI -3.48e+03, 2.59e+02].
+The p-value of the two-sided permutation t-test is 0.118. 
+
+The unpaired mean difference between RSPd6a_Dp2Yey and RSPd6a_WT is -10.9 [95%CI -1.07e+03, 1.22e+03].
+The p-value of the two-sided permutation t-test is 0.987. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

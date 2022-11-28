@@ -1,0 +1,30 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:28:19 2022.
+
+The unpaired mean difference between SSp-bfd1_Dp2Yey and SSp-bfd1_WT is -5.38e+02 [95%CI -1.56e+03, 4.02e+02].
+The p-value of the two-sided permutation t-test is 0.344. 
+
+The unpaired mean difference between SSp-bfd2/3_Dp2Yey and SSp-bfd2/3_WT is -8.98e+02 [95%CI -2.04e+03, 4.64e+02].
+The p-value of the two-sided permutation t-test is 0.215. 
+
+The unpaired mean difference between SSp-bfd4_Dp2Yey and SSp-bfd4_WT is -4.25e+02 [95%CI -2.38e+03, 1.81e+03].
+The p-value of the two-sided permutation t-test is 0.706. 
+
+The unpaired mean difference between SSp-bfd5_Dp2Yey and SSp-bfd5_WT is -7.37e+02 [95%CI -2.26e+03, 6.19e+02].
+The p-value of the two-sided permutation t-test is 0.369. 
+
+The unpaired mean difference between SSp-bfd6a_Dp2Yey and SSp-bfd6a_WT is 84.8 [95%CI -4.35e+02, 7.72e+02].
+The p-value of the two-sided permutation t-test is 0.856. 
+
+The unpaired mean difference between SSp-bfd6b_Dp2Yey and SSp-bfd6b_WT is 2.64e+02 [95%CI -1.54e+02, 1.2e+03].
+The p-value of the two-sided permutation t-test is 0.677. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

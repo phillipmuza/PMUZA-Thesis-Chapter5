@@ -1,0 +1,27 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:28:43 2022.
+
+The unpaired mean difference between VISC1_Dp2Yey and VISC1_WT is -6.56e+02 [95%CI -1.24e+03, 1.79e+02].
+The p-value of the two-sided permutation t-test is 0.111. 
+
+The unpaired mean difference between VISC2/3_Dp2Yey and VISC2/3_WT is -1.57e+03 [95%CI -2.99e+03, -3.02e+02].
+The p-value of the two-sided permutation t-test is 0.0606. 
+
+The unpaired mean difference between VISC4_Dp2Yey and VISC4_WT is -3.52e+02 [95%CI -1.67e+03, 9.74e+02].
+The p-value of the two-sided permutation t-test is 0.624. 
+
+The unpaired mean difference between VISC5_Dp2Yey and VISC5_WT is -2.82e+02 [95%CI -1.29e+03, 5.25e+02].
+The p-value of the two-sided permutation t-test is 0.637. 
+
+The unpaired mean difference between VISC6a_Dp2Yey and VISC6a_WT is -67.9 [95%CI -1.18e+03, 6.99e+02].
+The p-value of the two-sided permutation t-test is 0.902. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`
