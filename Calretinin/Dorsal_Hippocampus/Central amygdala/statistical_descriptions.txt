@@ -1,0 +1,21 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 17:18:43 2022.
+
+The unpaired mean difference between CEAc_Dp2Yey and CEAc_WT is 4.1e+02 [95%CI 49.4, 7.57e+02].
+The p-value of the two-sided permutation t-test is 0.072. 
+
+The unpaired mean difference between CEAl_Dp2Yey and CEAl_WT is 1.72e+02 [95%CI -3.76e+02, 5.54e+02].
+The p-value of the two-sided permutation t-test is 0.52. 
+
+The unpaired mean difference between CEAm_Dp2Yey and CEAm_WT is 2.17e+02 [95%CI -1.92e+02, 8.99e+02].
+The p-value of the two-sided permutation t-test is 0.533. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

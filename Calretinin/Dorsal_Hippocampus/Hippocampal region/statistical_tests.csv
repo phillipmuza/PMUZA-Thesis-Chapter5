@@ -1,0 +1,2 @@
+,control,test,control_N,test_N,effect_size,is_paired,difference,ci,bca_low,bca_high,pvalue_permutation,pvalue_welch,statistic_welch,pvalue_students_t,statistic_students_t,pvalue_mann_whitney,statistic_mann_whitney
+0,FC_Dp2Yey,FC_WT,6,6,mean difference,False,83.43136600666821,95,-747.7978160429724,823.1597336843932,0.8878,0.8531515054191194,-0.18994636454016398,0.8531514851672217,-0.18994636454016398,0.9372294372294373,19.0
