@@ -1,0 +1,3 @@
+,control,test,control_N,test_N,effect_size,is_paired,difference,ci,bca_low,bca_high,pvalue_permutation,pvalue_welch,statistic_welch,pvalue_students_t,statistic_students_t,pvalue_mann_whitney,statistic_mann_whitney
+0,VS_Dp2Yey,VS_WT,6,8,mean difference,False,-244.13567588444903,95,-1560.2435942049528,1189.5981235911242,0.7966,0.7564044886119232,0.318302772083253,0.7542184411578969,0.3203420037776031,0.7545787545787546,27.0
+1,fiber tracts_Dp2Yey,fiber tracts_WT,6,8,mean difference,False,-123.56709160204815,95,-398.9662945705736,194.33289226341958,0.4488,0.4732385218438009,0.745632566087822,0.45994743699213203,0.7634406708544074,0.4908424908424909,30.0
