@@ -1,0 +1,30 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Tue Oct 11 13:49:28 2022.
+
+The unpaired mean difference between LHA_Dp2Yey and LHA_WT is 1.07e+02 [95%CI -3.57e+02, 1.07e+03].
+The p-value of the two-sided permutation t-test is 0.91. 
+
+The unpaired mean difference between PSTN_Dp2Yey and PSTN_WT is 4.16e+02 [95%CI -6.53e+02, 1.67e+03].
+The p-value of the two-sided permutation t-test is 0.539. 
+
+The unpaired mean difference between RCH_Dp2Yey and RCH_WT is -4.22e+02 [95%CI -8.87e+02, 50.0].
+The p-value of the two-sided permutation t-test is 0.166. 
+
+The unpaired mean difference between STN_Dp2Yey and STN_WT is 91.8 [95%CI -2.43e+02, 4.99e+02].
+The p-value of the two-sided permutation t-test is 0.673. 
+
+The unpaired mean difference between TU_Dp2Yey and TU_WT is 66.0 [95%CI -8.15e+02, 1e+03].
+The p-value of the two-sided permutation t-test is 0.88. 
+
+The unpaired mean difference between ZI_Dp2Yey and ZI_WT is -53.1 [95%CI -2.55e+02, 1.16e+02].
+The p-value of the two-sided permutation t-test is 0.592. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`

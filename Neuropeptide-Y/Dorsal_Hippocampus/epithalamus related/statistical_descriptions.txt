@@ -1,0 +1,21 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Tue Oct 11 13:51:09 2022.
+
+The unpaired mean difference between fr_Dp2Yey and fr_WT is -3.41e+02 [95%CI -8.99e+02, 3.57e+02].
+The p-value of the two-sided permutation t-test is 0.333. 
+
+The unpaired mean difference between hbc_Dp2Yey and hbc_WT is -6.28e+02 [95%CI -1.96e+03, 4.93e+02].
+The p-value of the two-sided permutation t-test is 0.362. 
+
+The unpaired mean difference between sm_Dp2Yey and sm_WT is -39.7 [95%CI -1.23e+03, 1.56e+03].
+The p-value of the two-sided permutation t-test is 0.967. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`
