@@ -1,0 +1,24 @@
+DABEST v0.3.1
+=============
+             
+Good afternoon!
+The current time is Mon Aug 22 13:13:11 2022.
+
+The unpaired mean difference between MOs1_Dp2Yey and MOs1_WT is 7.35 [95%CI -1.62e+02, 2.52e+02].
+The p-value of the two-sided permutation t-test is 0.956. 
+
+The unpaired mean difference between MOs2/3_Dp2Yey and MOs2/3_WT is -65.4 [95%CI -2.82e+02, 1.05e+02].
+The p-value of the two-sided permutation t-test is 0.567. 
+
+The unpaired mean difference between MOs5_Dp2Yey and MOs5_WT is 1.96e+02 [95%CI 12.9, 3.64e+02].
+The p-value of the two-sided permutation t-test is 0.073. 
+
+The unpaired mean difference between MOs6a_Dp2Yey and MOs6a_WT is 2.77e+02 [95%CI 58.9, 5.05e+02].
+The p-value of the two-sided permutation t-test is 0.0474. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`
