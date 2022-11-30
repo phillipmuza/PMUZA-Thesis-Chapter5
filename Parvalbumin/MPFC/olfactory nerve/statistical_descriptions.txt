@@ -1,0 +1,15 @@
+DABEST v0.3.1
+=============
+             
+Good evening!
+The current time is Wed Nov 30 18:21:25 2022.
+
+The unpaired mean difference between aco_Dp2Yey and aco_WT is 1.53e+03 [95%CI -1.81e+02, 3.77e+03].
+The p-value of the two-sided permutation t-test is 0.197. 
+
+5000 bootstrap samples were taken; the confidence interval is bias-corrected and accelerated.
+The p-value(s) reported are the likelihood(s) of observing the effect size(s),
+if the null hypothesis of zero difference is true.
+For each p-value, 5000 reshuffles of the control and test labels were performed.
+
+To get the results of all valid statistical tests, use `.mean_diff.statistical_tests`
